@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Solid white background circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,2C6.48,2 2,6.48 2,12s4.48,10 10,10 10,-4.48 10,-10S17.52,2 12,2z" />
+    <!-- Primary Blue Medical Cross in the center -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M16,10.5h-2.5V8h-3v2.5H8v3h2.5V16h3v-2.5H16V10.5z" />
+</vector>
